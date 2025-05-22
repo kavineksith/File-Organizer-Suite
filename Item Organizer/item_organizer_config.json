@@ -1,0 +1,27 @@
+{
+  "categories": {
+    "audios": [".mp3", ".ogg", ".wav", ".flac", ".aac", ".m4a"],
+    "videos": [".mp4", ".mov", ".avi", ".mkv", ".flv", ".webm", ".m4v"],
+    "images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".bmp"],
+    "documents": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".txt", ".rtf"],
+    "ebooks": [".epub", ".mobi", ".azw3"],
+    "archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+    "scripts": [".sh", ".bash", ".py", ".js", ".php", ".pl", ".rb"],
+    "configs": [".json", ".yaml", ".yml", ".ini", ".conf", ".cfg"],
+    "executables": [".exe", ".msi", ".dmg", ".pkg", ".deb", ".rpm"],
+    "disk_images": [".iso", ".img", ".vmdk"],
+    "fonts": [".ttf", ".otf", ".woff", ".woff2"],
+    "database": [".sql", ".db", ".sqlite", ".mdb"],
+    "source_code": [".c", ".cpp", ".h", ".java", ".cs", ".go", ".rs"],
+    "web_files": [".html", ".css", ".scss", ".less", ".jsx", ".ts"],
+    "torrents": [".torrent"],
+    "cad": [".dwg", ".dxf", ".stl", ".obj"],
+    "general": []
+  },
+  "settings": {
+    "default_conflict_resolution": "rename",
+    "calculate_checksum_threshold": 1048576,
+    "default_directory_permissions": "755",
+    "log_verbosity": "INFO"
+  }
+}

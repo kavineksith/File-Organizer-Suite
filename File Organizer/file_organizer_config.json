@@ -1,0 +1,146 @@
+{
+    "extensions": {
+        "IMAGES": [
+            ".jpg",
+            ".jpeg",
+            ".png",
+            ".gif",
+            ".bmp",
+            ".tiff",
+            ".webp",
+            ".svg",
+            ".heic",
+            ".raw"
+        ],
+        "VIDEOS": [
+            ".mp4",
+            ".mkv",
+            ".avi",
+            ".mov",
+            ".wmv",
+            ".flv",
+            ".webm",
+            ".m4v",
+            ".mpg",
+            ".mpeg"
+        ],
+        "DOCUMENTS": [
+            ".pdf",
+            ".doc",
+            ".docx",
+            ".odt",
+            ".txt",
+            ".rtf",
+            ".xls",
+            ".xlsx",
+            ".ppt",
+            ".pptx",
+            ".md",
+            ".epub",
+            ".mobi"
+        ],
+        "MUSIC": [
+            ".mp3",
+            ".wav",
+            ".flac",
+            ".aac",
+            ".ogg",
+            ".wma",
+            ".m4a",
+            ".opus",
+            ".mid",
+            ".midi"
+        ],
+        "ARCHIVES": [
+            ".zip",
+            ".rar",
+            ".7z",
+            ".tar",
+            ".gz",
+            ".bz2",
+            ".xz",
+            ".iso",
+            ".dmg",
+            ".pkg"
+        ],
+        "DATA": [
+            ".csv",
+            ".json",
+            ".xml",
+            ".sql",
+            ".db",
+            ".sqlite",
+            ".yaml",
+            ".yml",
+            ".tsv",
+            ".parquet"
+        ],
+        "CODE": [
+            ".py",
+            ".js",
+            ".html",
+            ".css",
+            ".java",
+            ".c",
+            ".cpp",
+            ".h",
+            ".sh",
+            ".php",
+            ".rb",
+            ".go",
+            ".rs",
+            ".swift",
+            ".kt",
+            ".ts"
+        ],
+        "EXECUTABLES": [
+            ".exe",
+            ".msi",
+            ".dmg",
+            ".pkg",
+            ".deb",
+            ".rpm",
+            ".apk",
+            ".bat",
+            ".com",
+            ".jar"
+        ],
+        "TORRENTS": [
+            ".torrent"
+        ],
+        "EBOOKS": [
+            ".epub",
+            ".mobi",
+            ".azw3"
+        ]
+    },
+    "options": {
+        "create_date_folders": false,
+        "date_format": "YYYY-MM-DD",
+        "hash_algorithm": "sha256",
+        "default_conflict_resolution": "rename",
+        "ignore_hidden_files": true,
+        "max_threads": 8,
+        "log_level": "INFO"
+    },
+    "custom_folders": {
+        "Projects": [
+            ".sln",
+            ".vcxproj",
+            ".xcodeproj",
+            ".project"
+        ],
+        "Fonts": [
+            ".ttf",
+            ".otf",
+            ".woff",
+            ".woff2"
+        ],
+        "VirtualMachines": [
+            ".vdi",
+            ".vmdk",
+            ".ova",
+            ".ovf"
+        ]
+    }
+}
