@@ -56,7 +56,7 @@ python file_organizer.py ~/Downloads ~/Organized --workers 8 --config custom_cat
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
